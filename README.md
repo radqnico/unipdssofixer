@@ -4,6 +4,10 @@ This extension fixes all the interaction problems of the UniPD SSO login page!
 ### If you find it useful, consider buying me a coffee :)
 ## [COFFEE FOR NICO](https://buymeacoffee.com/nicoloscialpi)
 
+# DEMO
+
+![SSO](https://user-images.githubusercontent.com/28452407/151254497-3a2e8f3c-6cf4-46f0-a414-584db33fed2e.gif)
+
 ## How to install
  1. Download ZIP from releases page [LINK](https://github.com/radqnico/unipdssofixer/releases).
  2. Go to [chrome://extensions](chrome://extensions/) (copy it into the link bar).
