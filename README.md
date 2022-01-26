@@ -1,4 +1,4 @@
-# unipdssofixer
+# UniPD SSO Login Page Fixer
 This extension fixes all the interaction problems of the UniPD SSO login page!
 
 ## How to install
