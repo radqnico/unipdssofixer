@@ -1,4 +1,4 @@
-# UniPD SSO Login Page Fixer
+# UniPD SSO Login Page Fixer (Chrome Only)
 This extension fixes all the interaction problems of the UniPD SSO login page!
 
 ### If you find it useful, consider buying me a coffee :)
