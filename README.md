@@ -2,7 +2,7 @@
 This extension fixes all the interaction problems of the UniPD SSO login page!
 
 ## How to install
- 1. Download ZIP from releases page.
+ 1. Download ZIP from releases page [LINK](https://github.com/radqnico/unipdssofixer/releases).
  2. Go to [chrome://extensions](chrome://extensions/) (copy it into the link bar).
  3. Drag & drop the zip into the page.
 
