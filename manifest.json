@@ -4,9 +4,6 @@
     "version": "1.0",
     "manifest_version": 3,
     "author": "Nicolò Scialpi",
-    "background": {
-        "service_worker": "background.js"
-    },
     "action": {
         "default_popup": "popup.html",
         "default_icon": {
