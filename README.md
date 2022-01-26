@@ -13,4 +13,5 @@ This extension fixes all the interaction problems of the UniPD SSO login page!
  3. Set your data
   
   ![image](https://user-images.githubusercontent.com/28452407/151248593-e26e74ae-9869-4b97-9c64-489645c123f5.png)
+ 
  4. Enjoy your auto-completed SSO login.
