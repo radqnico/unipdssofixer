@@ -1,7 +1,7 @@
 {
     "name": "UniPD SSO Fixer",
     "description": "This extension fixes all the visual and interaction problems of the UniPD SSO login page!",
-    "version": "1.0",
+    "version": "1.1.1",
     "manifest_version": 3,
     "author": "Nicolò Scialpi",
     "action": {
