@@ -6,7 +6,7 @@ This extension fixes all the interaction problems of the UniPD SSO login page!
 
 # DEMO
 
-![SSO](https://user-images.githubusercontent.com/28452407/151254497-3a2e8f3c-6cf4-46f0-a414-584db33fed2e.gif)
+![SSO](https://user-images.githubusercontent.com/28452407/151254931-806fc87e-99ee-4d65-963a-e3d08a77291f.gif)
 
 ## How to install
  1. Download ZIP from releases page [LINK](https://github.com/radqnico/unipdssofixer/releases).
